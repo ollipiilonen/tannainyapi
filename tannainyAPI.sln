@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tannainyAPI", "tannainyAPI\tannainyAPI.csproj", "{0FA47D60-0482-461F-A663-2B602774841B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{581368E9-C5CD-48DF-8AEB-FF94503A55B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA47D60-0482-461F-A663-2B602774841B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA47D60-0482-461F-A663-2B602774841B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA47D60-0482-461F-A663-2B602774841B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA47D60-0482-461F-A663-2B602774841B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{581368E9-C5CD-48DF-8AEB-FF94503A55B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581368E9-C5CD-48DF-8AEB-FF94503A55B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581368E9-C5CD-48DF-8AEB-FF94503A55B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581368E9-C5CD-48DF-8AEB-FF94503A55B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2801C83-F583-4C0B-A417-53622FC13B27}
+	EndGlobalSection
+EndGlobal

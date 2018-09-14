@@ -1,0 +1,9 @@
+C:\work\loppuprojekti\tannainyAPI\tannainyAPI\Entities\obj\Release\netcoreapp2.1\Entities.csprojAssemblyReference.cache
+C:\work\loppuprojekti\tannainyAPI\tannainyAPI\Entities\bin\Release\netcoreapp2.1\Entities.deps.json
+C:\work\loppuprojekti\tannainyAPI\tannainyAPI\Entities\bin\Release\netcoreapp2.1\Entities.dll
+C:\work\loppuprojekti\tannainyAPI\tannainyAPI\Entities\bin\Release\netcoreapp2.1\Entities.pdb
+C:\work\loppuprojekti\tannainyAPI\tannainyAPI\Entities\obj\Release\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+C:\work\loppuprojekti\tannainyAPI\tannainyAPI\Entities\obj\Release\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+C:\work\loppuprojekti\tannainyAPI\tannainyAPI\Entities\obj\Release\netcoreapp2.1\Entities.AssemblyInfo.cs
+C:\work\loppuprojekti\tannainyAPI\tannainyAPI\Entities\obj\Release\netcoreapp2.1\Entities.dll
+C:\work\loppuprojekti\tannainyAPI\tannainyAPI\Entities\obj\Release\netcoreapp2.1\Entities.pdb
